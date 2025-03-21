@@ -1,4 +1,4 @@
-# Wi-Fi De-authentication Attack Script
+# Wi-Fi De-authentication
 
 ## Overview
 
