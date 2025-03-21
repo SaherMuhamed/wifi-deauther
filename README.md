@@ -90,5 +90,5 @@ sudo python3 deauth.py -g <GATEWAY_MAC> -i <INTERFACE> [-t <TARGET_MAC>] [-c <CO
 
 ## Disclaimer
 
-This script is intended for **educational and security research purposes only**. Unauthorized use against networks you do not own is illegal and punishable by law. The author holds no responsibility for misuse.
+This script is intended for **educational and security research purposes only**. Unauthorized use against networks you do not own is illegal.
 
